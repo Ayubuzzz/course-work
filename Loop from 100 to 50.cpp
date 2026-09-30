@@ -2,7 +2,7 @@
 Author:Mwaura Job Gathoga
 Registration no:BCS-03-0134/2026
 Description:loop from 100 to 50 
-DAte:30/09/2026
+Date:30/09/2026
 */
 #include <stdio.h>
 int main() {
